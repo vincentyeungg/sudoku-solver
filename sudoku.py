@@ -76,7 +76,6 @@ def is_possible(bo, num, row, col):
             if num == bo[i][j]:
                 return False
     return True
-
            
 def main():
 
